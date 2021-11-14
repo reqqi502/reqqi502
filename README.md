@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center">About Me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">About Me ❤ ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from Morocco ❤</h3>
+<h3 align="center">I'm a Mobile and Web Developer from Morocco <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
   
 A 24Y/O Mobile 🌈 and Web developer🎯 from Morocco. I'm passionate about JavaEE Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
@@ -23,7 +23,7 @@ A 24Y/O Mobile 🌈 and Web developer🎯 from Morocco. I'm passionate about Jav
 
 <div align="center">
   
-<img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" height="60" width="60">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg" height="60" width="60">
 <img src="https://miro.medium.com/max/700/1*X-QFjBjxIgA2RwVvoA89nw.png" height="60" width="100">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
