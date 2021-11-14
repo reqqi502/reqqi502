@@ -24,14 +24,15 @@ A 24Y/O Mobile 🌈 and Web developer🎯 from Morocco. I'm passionate about Jav
 <div align="center">
   
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg" height="60" width="60">
-<img src="https://miro.medium.com/max/700/1*X-QFjBjxIgA2RwVvoA89nw.png" height="60" width="100">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src"https://cdn.alsacreations.net/xmedia/doc/full/php-logo.png" height="60" width="60">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/php-logo-vector-1.svg" height="60" width="100">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo-vector.svg" height="60" width="60">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/html5-logo-vector.svg" height="60" width="60">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/wordpress-logo-black-and-white.png" height="60" width="60">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/shopify-logo-vector.svg" height="60" width="60">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/ajax-logo-vector-1.svg" height="60" width="60">
+<img src"https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-vector-3.svg" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/jquery-logo-vector.svg" height="60" width="60">
 
 <br>
   
