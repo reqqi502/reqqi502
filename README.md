@@ -19,7 +19,7 @@ A 24Y/O Mobile 🌈 and Web developer🎯 from Morocco. I'm passionate about Jav
 <br />
 
 
-## 👨‍💻 Languages and Tools
+## 👨‍💻 Languages and Framworks and Tools :
 
 <div align="center" >
   
@@ -54,41 +54,3 @@ A 24Y/O Mobile 🌈 and Web developer🎯 from Morocco. I'm passionate about Jav
 <a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm akram r</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reqqi-akram-%e2%9c%94%ef%b8%8f-331ba3199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reqqi-akram-%e2%9c%94%ef%b8%8f-331ba3199/" height="30" width="40" /></a>
-<a href="https://fb.com/spear code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spear code" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/akram_reqqi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akram_reqqi/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc9sl0c1sjw1q7lwywiq1dxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9sl0c1sjw1q7lwywiq1dxg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/reqqi502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/reqqi502" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
