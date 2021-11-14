@@ -21,7 +21,7 @@ A 24Y/O Mobile 🌈 and Web developer🎯 from Morocco. I'm passionate about Jav
 
 ## 👨‍💻 Languages and Tools
 
-<div align="center">
+<div align="center" >
   
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg" height="60" width="60">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/php-logo-vector-1.svg" height="60" width="100">
@@ -30,7 +30,7 @@ A 24Y/O Mobile 🌈 and Web developer🎯 from Morocco. I'm passionate about Jav
 <img src="https://brandslogos.com/wp-content/uploads/images/large/wordpress-logo-black-and-white.png" height="60" width="60">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/shopify-logo-vector.svg" height="60" width="60">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/ajax-logo-vector-1.svg" height="60" width="60">
-<img src"https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-vector-3.svg" height="60" width="60">
+<img src"https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/jquery-logo-vector.svg" height="60" width="60">
 
