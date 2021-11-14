@@ -67,7 +67,7 @@ A 24Y/O Mobile 🌈 and Web developer🎯 from Morocco. I'm passionate about Jav
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/abdelouahab-elhassnaoui-ab4785118/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/reqqi-akram-%E2%9C%94%EF%B8%8F-331ba3199/)
 
 
 <a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
